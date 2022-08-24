@@ -1,4 +1,3 @@
-#!/bin/bash
 #-*-ENCODING: UTF-8-*-
 # $2 is the name of the downloaded file
 # $1 is the URL to download the file i want to download
