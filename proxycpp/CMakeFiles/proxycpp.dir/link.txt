@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproxycpp.a  CMakeFiles/proxycpp.dir/soapDeviceBindingProxy.cpp.o CMakeFiles/proxycpp.dir/soapMediaBindingProxy.cpp.o CMakeFiles/proxycpp.dir/soapPTZBindingProxy.cpp.o CMakeFiles/proxycpp.dir/soapPullPointSubscriptionBindingProxy.cpp.o CMakeFiles/proxycpp.dir/soapRemoteDiscoveryBindingProxy.cpp.o
+/usr/bin/ranlib libproxycpp.a
